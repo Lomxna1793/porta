@@ -9,6 +9,8 @@ import hbsContext  from './context/context';
 export default defineConfig(
     {
         base: '/',
+        base:'/Lomxna1793/porta',
+        
         appType: 'mpa',
         build: {
             rollupOptions: {
